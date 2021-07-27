@@ -1,0 +1,5 @@
+1 2 00 Cristian ezequiel    Fransisco Perez 999
+2 3 01 Ernesto cristobal    Fransisco Perez 100
+3 4 02 Estebanquito         Fransisco Perez 099
+4 4 03 Alberto fernandez    Fransisco Perez 010
+5 1 04 Cristobal colon      Fransisco Perez 789
